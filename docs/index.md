@@ -1,8 +1,8 @@
-# Certificate Identity Declaration SDK for Citrix Receiver for Linux 13.9
+# Certificate Identity Declaration SDK for Citrix Receiver for Linux 13.9.1
 
 ## Compatibility with Receiver
 
-This is Version 13.9 of the Certificate Identity Declaration SDK. It is intended for use with Receiver for Linux builds in the 13.9 series. There are separate versions of the SDK for each of the released architectures (X86, X86_64, and ARMhf) that differ only in the included binaries. 
+This is Version 13.9.1 of the Certificate Identity Declaration SDK. It is intended for use with Receiver for Linux builds in the 13.9.1 series. There are separate versions of the SDK for each of the released architectures (X86, X86_64, and ARMhf) that differ only in the included binaries. 
 
 ## Who should use this SDK? 
 
