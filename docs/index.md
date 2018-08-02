@@ -1,8 +1,8 @@
-# Certificate Identity Declaration SDK for Citrix Receiver for Linux 13.10
+# Certificate Identity Declaration SDK for Citrix Workspace app for Linux 1808
 
-## Compatibility with Receiver
+## Compatibility with Workspace app
 
-This is Version 13.10 of the Certificate Identity Declaration SDK. It is intended for use with Receiver for Linux builds in the 13.10 series. There are separate versions of the SDK for each of the released architectures (X86, X86_64, and ARMhf) that differ only in the included binaries. 
+This is Version 1808 of the Certificate Identity Declaration SDK. It is intended for use with Workspace app for Linux builds in the 1808 series. There are separate versions of the SDK for each of the released architectures (X86, X86_64, and ARMhf) that differ only in the included binaries. 
 
 ## Who should use this SDK? 
 
@@ -22,7 +22,7 @@ To build the sample plugin, the cURL library must be installed on the system, mo
 
 The sample plugin will build into two modules both named "libCID.so", coming in both debug and retail version, the former containing the debugging symbols. 
 
-The sample plugin can be used with Citrix Receiver for Linux by adding the following entries to the Auth Manager's configuration file (located by default at /opt/Citrix/ICAClient/config/AuthManConfig.xml): 
+The sample plugin can be used with Citrix Workspace app for Linux by adding the following entries to the Auth Manager's configuration file (located by default at /opt/Citrix/ICAClient/config/AuthManConfig.xml): 
 
 ```xml
 <key>ProtocolOrder</key> 
