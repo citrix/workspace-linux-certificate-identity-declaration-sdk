@@ -1,4 +1,4 @@
-# Certificate Identity Declaration SDK for Citrix Workspace app for Linux 1808
+# Certificate Identity Declaration SDK for Citrix Workspace app 1808 for Linux
 
 ## Compatibility with Workspace app
 
