@@ -1,8 +1,8 @@
-# Certificate Identity Declaration SDK for Citrix Workspace app 1809 for Linux
+# Certificate Identity Declaration SDK for Citrix Workspace app for Linux
 
 ## Compatibility with Workspace app
 
-This is Version 1809 of the Certificate Identity Declaration SDK. It is intended for use with Workspace app for Linux builds in the 1809 series. There are separate versions of the SDK for each of the released architectures (X86, X86_64, and ARMhf) that differ only in the included binaries. 
+This is Version of the Certificate Identity Declaration SDK. It is intended for use with Workspace app for Linux builds in the series. There are separate versions of the SDK for each of the released architectures (X86, X86_64, and ARMhf) that differ only in the included binaries. 
 
 ## Who should use this SDK? 
 
