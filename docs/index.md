@@ -2,7 +2,7 @@
 
 ## Compatibility with Workspace app
 
-This is Version of the Certificate Identity Declaration SDK. It is intended for use with Workspace app for Linux builds in the series. There are separate versions of the SDK for each of the released architectures (X86, X86_64, and ARMhf) that differ only in the included binaries. 
+This version of the Certificate Identity Declaration SDK is intended for use with Citrix Workspace app for Linux builds. There are separate versions of the SDK for each of the released architectures (X86, X86_64, and ARMhf) that differ only in the included binaries. 
 
 ## Who should use this SDK? 
 
